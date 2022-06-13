@@ -1,0 +1,20 @@
+
+
+ p {
+    text-align: center;
+    font-size: 60px ;
+    font-weight: bold;
+    margin-top:10px;
+ }
+
+  .container {
+    min-height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  h1 {
+    font-size: 50px;
+    color: red;
+  }
